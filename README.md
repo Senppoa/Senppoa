@@ -12,13 +12,6 @@
       <h3>writing</h3>
       <p>I write code and research notes about AI for Science, molecular modelling, scientific software, and the small details that make computational chemistry workflows reliable.</p>
     </td>
-    <td valign="top" align="left" width="36%">
-      <em>“Nothing in life is to be feared; it is only to be understood.”</em><br>
-      <sub>— working principle</sub><br><br>
-      <a href="https://github.com/Senppoa">github.com/Senppoa</a><br>
-      <a href="https://orcid.org/0009-0001-5735-9343">ORCID</a> ·
-      <a href="https://scholar.google.com/citations?user=V6uW1gQAAAAJ">Scholar</a>
-    </td>
   </tr>
 </table>
 
