@@ -12,7 +12,7 @@
       <h3>writing</h3>
       <p>I write code and research notes about AI for Science, molecular modelling, scientific software, and the small details that make computational chemistry workflows reliable.</p>
     </td>
-    <td valign="top" align="right" width="36%">
+    <td valign="top" align="left" width="36%">
       <em>“from electrons to experiments, one reproducible step at a time”</em><br>
       <sub>— working principle</sub><br><br>
       <a href="https://github.com/Senppoa">github.com/Senppoa</a><br>
