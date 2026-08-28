@@ -7,15 +7,10 @@
 <table align="center" width="80%" border="0">
   <tr>
     <td valign="top" align="left">
-
-### currently
-
-I am a Chemical Engineering PhD candidate at Dalian University of Technology, working at the intersection of quantum chemistry, reactive machine-learning potentials, and computer-aided molecular design. My current focus is building reproducible workflows that connect transition-state search and organometallic catalyst design with experimentally testable chemistry.
-
-### writing
-
-I write code and research notes about AI for Science, molecular modelling, scientific software, and the small details that make computational chemistry workflows reliable.
-
+      <h3>currently</h3>
+      <p>I am a Chemical Engineering PhD candidate at Dalian University of Technology, working at the intersection of quantum chemistry, reactive machine-learning potentials, and computer-aided molecular design. My current focus is building reproducible workflows that connect transition-state search and organometallic catalyst design with experimentally testable chemistry.</p>
+      <h3>writing</h3>
+      <p>I write code and research notes about AI for Science, molecular modelling, scientific software, and the small details that make computational chemistry workflows reliable.</p>
     </td>
     <td valign="top" align="right" width="36%">
       <em>“from electrons to experiments, one reproducible step at a time”</em><br>
