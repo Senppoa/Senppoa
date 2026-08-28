@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/aurora-veil.svg" alt="Kun Tang — Reactive MLIP · transition-state search · AI for Science" width="100%" />
+  <img src="./assets/aurora-veil.svg?v=2" alt="Kun Tang — Reactive MLIP · transition-state search · AI for Science" width="100%" />
 </p>
 
 **currently**
