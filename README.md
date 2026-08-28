@@ -1,5 +1,3 @@
-# Kun Tang
-
 <p align="center">
   <img src="./assets/aurora-veil.svg" alt="Kun Tang — Reactive MLIP · transition-state search · AI for Science" width="100%" />
 </p>
