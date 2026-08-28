@@ -50,15 +50,6 @@
       <feDisplacementMap in="SourceGraphic" in2="t3" scale="48"/>
     </filter>
 
-    <!-- Soft glow for the headline -->
-    <filter id="av-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1.2" result="headline-blur"/>
-      <feMerge>
-        <feMergeNode in="headline-blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
     <!-- Grain overlay -->
     <filter id="av-grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
@@ -127,7 +118,7 @@
 
   <!-- Type — sits on top of horizon -->
   <g font-family="'Fraunces', 'Playfair Display', Georgia, serif">
-    <text x="80" y="368" font-size="74" font-weight="500" font-style="italic" fill="#fef3c7" filter="url(#av-glow)" letter-spacing="-1.5">Kun Tang</text>
+    <text x="80" y="368" font-size="74" font-weight="500" font-style="italic" fill="#fef3c7" letter-spacing="-1.5">Kun Tang</text>
   </g>
   <g font-family="'JetBrains Mono', 'IBM Plex Mono', ui-monospace, monospace">
     <text x="82" y="396" font-size="11" fill="#3fffe6" letter-spacing="6" opacity="0.95">∗ REACTIVE MLIP · TS SEARCH · AI4S ∗</text>
