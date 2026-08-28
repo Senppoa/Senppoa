@@ -16,7 +16,6 @@
       <em>“Nothing in life is to be feared; it is only to be understood.”</em><br>
       <sub>— working principle</sub><br><br>
       <a href="https://github.com/Senppoa">github.com/Senppoa</a><br>
-      <a href="mailto:tangkunmail@163.com">tangkunmail@163.com</a><br>
       <a href="https://orcid.org/0009-0001-5735-9343">ORCID</a> ·
       <a href="https://scholar.google.com/citations?user=V6uW1gQAAAAJ">Scholar</a>
     </td>
