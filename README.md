@@ -13,7 +13,7 @@
       <p>I write code and research notes about AI for Science, molecular modelling, scientific software, and the small details that make computational chemistry workflows reliable.</p>
     </td>
     <td valign="top" align="left" width="36%">
-      <em>“from electrons to experiments, one reproducible step at a time”</em><br>
+      <em>“Nothing in life is to be feared; it is only to be understood.”</em><br>
       <sub>— working principle</sub><br><br>
       <a href="https://github.com/Senppoa">github.com/Senppoa</a><br>
       <a href="mailto:tangkunmail@163.com">tangkunmail@163.com</a><br>
