@@ -36,7 +36,3 @@
 - [RMLP-for-OMCat](https://github.com/Senppoa/RMLP-for-OMCat) — reactive-MLIP workflows for organometallic-catalysis TS search and ligand screening.
 - [Gauoptimizer-MLPs-interface](https://github.com/Senppoa/Gauoptimizer-MLPs-interface) — a Python interface for MLIP-driven Gaussian geometry optimization.
 - [orb-hessian](https://github.com/Senppoa/orb-hessian) — analytical Hessians for ORB-family universal machine-learning potentials through second-order automatic differentiation.
-
-<p align="center">
-  <sub>PhD candidate · Dalian University of Technology · expected 2027</sub>
-</p>
