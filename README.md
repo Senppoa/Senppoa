@@ -38,12 +38,6 @@
 - [Gauoptimizer-MLPs-interface](https://github.com/Senppoa/Gauoptimizer-MLPs-interface) — a Python interface for MLIP-driven Gaussian geometry optimization.
 - [orb-hessian](https://github.com/Senppoa/orb-hessian) — analytical Hessians for ORB-family universal machine-learning potentials through second-order automatic differentiation.
 
-## selected publications
-
-- **Reactive machine learning potential for accelerating transition state search in organic synthesis** — *Nature Communications* (2026), co-first author. [DOI](https://doi.org/10.1038/s41467-026-72945-0)
-- **Accelerating Transition State Search and Ligand Screening for Organometallic Catalysis with Reactive Machine Learning Potential** — *Journal of Chemical Theory and Computation* (2025), first author. [DOI](https://doi.org/10.1021/acs.jctc.5c01047)
-- **GC-NORM-based thermodynamic framework for evaluations of organic reactions involving carbon dioxide utilization** — *Chemical Engineering Science* (2023), first author. [DOI](https://doi.org/10.1016/j.ces.2023.118913)
-
 <p align="center">
   <sub>PhD candidate · Dalian University of Technology · expected 2027</sub>
 </p>
