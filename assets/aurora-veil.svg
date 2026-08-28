@@ -125,13 +125,4 @@
   </g>
   <text x="1120" y="396" text-anchor="end" font-family="'Fraunces', Georgia, serif" font-style="italic" font-size="14" fill="#cbd5e1" opacity="0.55">38°54′N · 121°38′E</text>
 
-  <!-- Editorial corner mark -->
-  <g transform="translate(80,40)" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8" letter-spacing="3">
-    <line x1="0" y1="0" x2="14" y2="0" stroke="#94a3b8" stroke-width="0.6"/>
-    <text x="20" y="3">REACTIVE SYSTEMS</text>
-  </g>
-  <g transform="translate(1120,40)" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94a3b8" letter-spacing="3" text-anchor="end">
-    <text x="-20" y="3">AI4S · STREAM 03</text>
-    <line x1="-14" y1="0" x2="0" y2="0" stroke="#94a3b8" stroke-width="0.6"/>
-  </g>
 </svg>
