@@ -1,18 +1,39 @@
-<p align="center">
-  <img src="./assets/aurora-veil.svg?v=4" alt="Kun Tang — Reactive MLIP · transition-state search · AI for Science" width="100%" />
-</p>
+# Kun Tang
 
-**currently**
+**Computational chemistry · Reactive MLIPs · AI for Science**
 
-I am a chemical engineering PhD candidate at Dalian University of Technology. I build reproducible workflows for reactive machine learning potentials, transition-state search, and organometallic catalyst design, connecting quantum chemistry with experimentally testable predictions.
+Chemical Engineering PhD candidate at Dalian University of Technology · Expected 2027
 
-**writing**
+I work at the intersection of quantum chemistry, reactive machine-learning potentials, and computer-aided molecular design. My focus is building reproducible workflows for transition-state search and organometallic catalyst design, connecting computational models with experimentally testable chemistry.
 
-I write code and research notes on AI for Science, molecular modeling, scientific software, and reliable computational chemistry workflows.
+[Email](mailto:tangkunmail@163.com) · [Google Scholar](https://scholar.google.com/citations?user=V6uW1gQAAAAJ) · [ORCID](https://orcid.org/0009-0001-5735-9343) · [GitHub](https://github.com/Senppoa)
 
-## research / practice
+## Selected work
+
+- **[DeePEST-OS](https://github.com/kaipai-ren/DeePEST-OS)** — Reactive MLIP models, data, and transition-state search, IRC, and training examples for organic reactions.
+- **[RMLP-for-OMCat](https://github.com/Senppoa/RMLP-for-OMCat)** — Reactive-MLIP workflows for organometallic-catalysis transition-state search and ligand screening.
+- **[Gauoptimizer-MLPs-interface](https://github.com/Senppoa/Gauoptimizer-MLPs-interface)** — A Python interface for MLIP-driven Gaussian geometry optimization.
+- **[orb-hessian](https://github.com/Senppoa/orb-hessian)** — Analytical Hessians for ORB-family universal machine-learning potentials through second-order automatic differentiation.
+
+## Research
 
 - **Reactive MLIPs** — model development, data generation, evaluation, and scientific workflow integration.
 - **Transition-state search** — automated TS initial guesses, optimization, IRC validation, and basin-aware screening.
 - **Organometallic catalysis** — mechanism-aware descriptors, ligand screening, and structure–activity analysis.
-- **Scientific engineering** — Python, PyTorch, ASE, PySCF, Gaussian, ORCA, RDKit, Linux, Slurm, and Git/GitHub.
+
+## Selected publications
+
+- **Reactive machine learning potential for accelerating transition state search in organic synthesis**  
+  *Nature Communications* · 2026 · Co-first author · [DOI](https://doi.org/10.1038/s41467-026-72945-0)
+
+- **Accelerating Transition State Search and Ligand Screening for Organometallic Catalysis with Reactive Machine Learning Potential**  
+  *Journal of Chemical Theory and Computation* · 2025 · First author · [DOI](https://doi.org/10.1021/acs.jctc.5c01047)
+
+- **GC-NORM-based thermodynamic framework for evaluations of organic reactions involving carbon dioxide utilization**  
+  *Chemical Engineering Science* · 2023 · First author · [DOI](https://doi.org/10.1016/j.ces.2023.118913)
+
+## Tools & notes
+
+Python · PyTorch · ASE · PySCF · Gaussian · ORCA · RDKit · Linux · Slurm · Git/GitHub
+
+I also write code and research notes on AI for Science, molecular modelling, scientific software, and reliable computational chemistry workflows.
